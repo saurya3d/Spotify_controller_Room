@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Music_controller",
+    "\\Music_controller\\api",
+    "\\Music_controller\\frontend",
+    "\\Music_controller\\frontend\\src",
+    "\\Music_controller\\frontend\\src\\components",
+    "\\Music_controller\\Music_controller",
+    "\\Music_controller\\Spotify"
+  ],
+  "SelectedNode": "\\Music_controller\\frontend\\src\\components\\MusicPlayer.js",
+  "PreviewInSolutionExplorer": false
+}
